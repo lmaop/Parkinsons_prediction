@@ -1,10 +1,10 @@
 # Parkinson's Disease Prediction using Tensorflow (Spiral Image Classification)
 
-
+https://user-images.githubusercontent.com/81355654/224639343-e947ca10-cec2-43a6-9018-d7cffa2e7301.mp4
 
 
 Hi Everyone,<br>
-https://user-images.githubusercontent.com/81355654/224639343-e947ca10-cec2-43a6-9018-d7cffa2e7301.mp4
+
 <br>
 This is my major project(2023), Detection of Parkinsons Disease using spiral images and deeplearning classification 
 
