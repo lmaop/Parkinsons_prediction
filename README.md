@@ -4,8 +4,6 @@ https://user-images.githubusercontent.com/81355654/224639343-e947ca10-cec2-43a6-
 
 
 Hi Everyone,<br>
-
-<br>
 This is my major project(2023), Detection of Parkinsons Disease using spiral images and deeplearning classification 
 
 #### packages/libraries used used:
